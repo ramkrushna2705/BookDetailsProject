@@ -1,0 +1,6 @@
+# prfile configuration
+spring:
+  profiles:
+    active:
+    - dev
+   
